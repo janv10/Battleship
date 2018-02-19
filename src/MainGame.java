@@ -6,7 +6,7 @@
  * @author Jahnvi Patel
  * 			For CS342 - UIC
  * 			Networked Battleship 
- * 			Professor Troy
+ * 			Professor Patrick Troy
  * 			Due Nov. 16 2017
  *
  */
