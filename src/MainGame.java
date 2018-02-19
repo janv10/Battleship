@@ -3,7 +3,7 @@
 
 /**
  * MainGame class - driver class which contains the main method to implement the game
- * @author Jahnvi Patel, Pawel Pietron
+ * @author Jahnvi Patel
  * 			For CS342 - UIC
  * 			Networked Battleship 
  * 			Professor Troy

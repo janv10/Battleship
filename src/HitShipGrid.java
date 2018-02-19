@@ -7,7 +7,7 @@ import javax.imageio.ImageIO;
 /**
  * Class displays current player's ships on the right hand panel of the frame
  * 
- * @author Jahnvi, Pawel
+ * @author Jahnvi
  *
  */
 public class HitShipGrid extends JPanel {

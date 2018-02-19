@@ -8,7 +8,7 @@ import javax.swing.*;
 /**
  * Creates a grid array for main game panel and hit ship game panel
  * 	 that goes on the grid
- * @author janvi
+ * @author jahnvi
  *
  */
 

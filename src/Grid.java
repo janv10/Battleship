@@ -6,7 +6,7 @@ import javax.imageio.*;
 import javax.swing.*;
 /**
  * Creates the main grid where the game is played 
- * @author jahnvi, pawel
+ * @author jahnvi, 
  *
  */
 public class Grid extends JPanel implements MouseListener {

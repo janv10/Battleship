@@ -4,7 +4,7 @@ import java.awt.image.*;
 import javax.swing.*;
 /**
  * Wait for the opponent player after each turn 
- * @author Jahnvi, Pawel 
+ * @author Jahnvi
  *
  */
 public class WaitingForPlayer implements MouseListener {

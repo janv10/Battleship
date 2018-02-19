@@ -7,7 +7,7 @@ import javax.swing.*;
  * 					- puts the ship on the grid
  * 					- Checks if all the ships are hit 
  * 					
- * @author Jahnvi, Pawel 
+ * @author Jahnvi
  *
  */
 public class logicBoard {

@@ -5,7 +5,7 @@ import javax.swing.*;
 /**
  * Class GameOverScreen - displays image of the winner player 
  * 					   - to exit the game, click anywhere on the screen 
- * @author Jahnvi, Pawel
+ * @author Jahnvi, 
  *
  */
 

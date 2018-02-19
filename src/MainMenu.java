@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 /**
  * Has title page, menubar items, ship and count of ship's information
- * @author Jahnvi, Pawel
+ * @author Jahnvi
  *
  */
 public class MainMenu {
@@ -119,8 +119,8 @@ public class MainMenu {
 			public void actionPerformed(ActionEvent e) {
 				JOptionPane
 						.showMessageDialog(null,
-								"\t\t\t\t\t\t\t\t\t\t\t\tAuthors:\n" + "\t\t\tJahnvi Patel (jpate201)\n"
-										+ "\t\t\tPawel Pietron (ppietr4)\n",
+								"\t\t\t\t\t\t\t\t\t\t\t\tAuthors:\n" + "\t\t\tJahnvi Patel (jpate201)"
+										+ "\n",
 								"Authors of Networked Battleship", JOptionPane.INFORMATION_MESSAGE);
 			}
 		});

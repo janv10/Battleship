@@ -5,7 +5,7 @@ import java.util.*;
  * Class ship - puts ship pieces in list, array - gets starting position of the
  * grid - Checks for dead ships and marks dead, if dead
  * 
- * @author Jahnvi, Pawel
+ * @author Jahnvi
  *
  */
 

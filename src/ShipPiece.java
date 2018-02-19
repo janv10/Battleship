@@ -4,7 +4,7 @@ import javax.swing.ImageIcon;
  * Assign ship pieces to each player
  * 	blue ship is player 1
  * 	green ship is player 2
- * @author Jahnvi, Pawel
+ * @author Jahnvi
  *
  */
 public class ShipPiece {
